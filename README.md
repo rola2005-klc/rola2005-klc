@@ -9,16 +9,18 @@ I'm an undergraduate building projects across **AI agents, data science, web app
 - Frontend/static web prototypes with JavaScript, TypeScript, Next.js, and Vercel-style deployment
 - Neuroscience and brain-inspired computation, especially computational modeling workflows
 
-## Featured projects
+## Start here: curated portfolio order
+
+GitHub profile pins can be controlled only through the GitHub UI, so this section is the source of truth for how to read my work. The first two are deployable demos; the later projects are reproducible learning/research artifacts.
 
 | Project | What it demonstrates | Tech | Link |
 |---|---|---|---|
 | **Website-** | Full-stack creative workspace prototype with a polished Next.js UI and FastAPI starter backend | TypeScript, Next.js, Tailwind, FastAPI | https://github.com/rola2005-klc/Website- |
 | **game2** | Mobile-friendly browser Match-3 game with deterministic game logic tests | JavaScript, HTML/CSS, GitHub Pages | https://github.com/rola2005-klc/game2 |
 | **brainpy** | Learning notes and experiments around BrainPy / computational neuroscience modeling | Python, Jupyter Notebook, BrainPy | https://github.com/rola2005-klc/brainpy |
-| **datasci350-quiz02** | Reproducible Quarto website analyzing Gapminder life expectancy, GDP, and population data | Quarto, Python, Jupyter, GitHub Pages | https://github.com/rola2005-klc/datasci350-quiz02 |
-| **datasci350-quiz03** | Local LLM customization with Ollama plus Python data analysis on cloud-computing workflow | Python, Ollama, AWS/EC2 workflow | https://github.com/rola2005-klc/datasci350-quiz03 |
-| **datasci350-quiz05** | Parallel computing, generated datasets, Parquet files, and container/reproducibility practice | Python, Jupyter, pandas, containers | https://github.com/rola2005-klc/datasci350-quiz05 |
+| **datasci350-quiz02** | Reproducible coursework artifact: Quarto website analyzing Gapminder life expectancy, GDP, and population data | Quarto, Python, Jupyter, GitHub Pages | https://github.com/rola2005-klc/datasci350-quiz02 |
+| **datasci350-quiz03** | Reproducible coursework artifact: local LLM customization with Ollama plus Python data analysis on cloud-computing workflow | Python, Ollama, AWS/EC2 workflow | https://github.com/rola2005-klc/datasci350-quiz03 |
+| **datasci350-quiz05** | Reproducible coursework artifact: generated datasets, Parquet files, and container/reproducibility practice | Python, Jupyter, pandas, containers | https://github.com/rola2005-klc/datasci350-quiz05 |
 
 ## Portfolio direction
 
